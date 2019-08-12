@@ -9,7 +9,8 @@ Magic 8 ball (рус. магический шар 8);
 шуточный способ предсказывать будущее.
 
 Запуск игры:
-<pre>
-    <code> ruby magic_ball.rb
-    </code>
-</pre>
+
+``` 
+ruby magic_ball.rb
+
+```
